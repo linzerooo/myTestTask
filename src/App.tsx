@@ -12,13 +12,6 @@ function App() {
         imageUrl="https://i.pinimg.com/736x/ff/da/d6/ffdad6f7c4d22c1fe38cf19190aa3040.jpg"
       />
       <ProductCard
-        title="Торт ежик"
-        origin="Россия"
-        price={99900}
-        currency="RUB"
-        imageUrl="https://www.povarenok.ru/data/cache/2016feb/19/25/1457541_35082thumb500.jpg"
-      />
-      <ProductCard
         title="Торт единорог"
         origin="Россия"
         price={10000}
